@@ -1,0 +1,43 @@
+{
+    "Grilled chicken": {
+        "carbs": ["Mashed Potatoes", "White rice", "Pasta (red sauce)"],
+        "veggies": ["Broccoli", "Mixed veggies", "Salad"]
+    },
+    "Steak": {
+        "carbs": ["French fries", "Mashed Potatoes", "Mac and cheese"],
+        "veggies": ["Peas", "Salad", "Green beans","Mushrooms"]
+    },
+    "Chicken tenders": {
+        "carbs": ["French fries", "Mac and cheese", "Brown rice"],
+        "veggies": ["Salad", "Mixed veggies", "Peas"]
+    },
+    "Pork chops": {
+        "carbs": ["Mashed potatoes", "Baked beans", "Mac and cheese"],
+        "veggies": ["Salad", "Asparagus", "Brussel sprouts"]
+    },
+    "Carne asada": {
+        "carbs": ["Black beans", "Brown rice", "Mashed potatoes"],
+        "veggies": ["Green beans", "Grilled peppers", "Mixed veggies"]
+    },
+    "Meatballs": {
+        "carbs": ["Pasta (red sauce)", "White rice", "Pasta (Alfredo)"],
+        "veggies": ["Salad", "Green beans", "Brussel sprouts"]
+    },
+    "Salmon": {
+        "carbs": ["Mac and cheese", "White rice", "Pasta (Alfredo)"],
+        "veggies": ["Salad", "Broccoli", "Asparagus"]
+    },
+    "Sausage": {
+        "carbs": ["Baked beans", "French fries", "Pasta (red sauce)"],
+        "veggies": ["Mixed veggies", "Green beans", "Mushrooms"]
+    },
+    "Shrimp": {
+        "carbs": ["Mac and cheese", "Pasta (red sauce)", "Brown rice"],
+        "veggies": ["Grilled peppers", "Salad", "Brussel sprouts"]
+    },
+    "Tofu": {
+        "carbs": ["Brown rice", "White rice", "French fries"],
+        "veggies": ["Salad", "Broccoli", "Green beans"]
+    }
+
+}
